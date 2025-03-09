@@ -14,7 +14,7 @@ El treball consta d'una part pràctica i una part teòrica, ambdues incloses al 
 - Plànols: goo.gl/s81wkD (AutoCAD'14)
 
 
-Braç robòtic
-Contacte: Artur RH
-16/01/2014
-- https://brazoroboticoartur.blogspot.com/
+- Braç robòtic
+---
+- Artur Romero Hazas
+- 16/01/2014 (https://brazoroboticoartur.blogspot.com/)
